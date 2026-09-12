@@ -1,0 +1,4 @@
+household_power_consumption.txt
+app_backup.py
+__pycache__/
+*.pyc
