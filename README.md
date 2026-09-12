@@ -1,5 +1,10 @@
 # ⚡ Energy AI – Energy Consumption Forecasting
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A machine learning web application that forecasts electricity consumption using real-world household electricity data.
 
 🔗 **Live Demo:** https://energy-forecasting-abhi.streamlit.app/
